@@ -4,7 +4,7 @@ void pointer_and_structure();
 
 int main()
 {
-
+	pointer_and_structure();
 
 	return 0;
 }

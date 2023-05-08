@@ -189,7 +189,7 @@ void union_and_structures2()
 void endianness()
 {
 	/*
-		endiannes : 컴퓨터가 메모리 읽는 방식 -> 유니온 통해서 확인 가능
+		endianness : 컴퓨터가 메모리 읽는 방식 -> 유니온 통해서 확인 가능
 
 		Little Endian***
 		- 데이터가 끝나는 마지막 단위가 가장 작은 메모리 주소에 위치
